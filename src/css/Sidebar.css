@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap");
+
+.nav-list:hover,
+.Ham:hover {
+	background-color: #121621;
+	border-radius: 0.5rem;
+}
+
+.Ham {
+	display: none;
+	border: none;
+	background-color: #1a2035;
+}
+
+.Sidebar ul li {
+	transition: all 0.3s ease-in-out;
+}
